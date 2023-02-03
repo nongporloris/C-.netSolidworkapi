@@ -1,0 +1,11 @@
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.csproj.CoreCompileInputs.cache
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.csprojAssemblyReference.cache
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\bin\Debug\SwCSharpAddin1.dll
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\bin\Debug\SwCSharpAddin1.pdb
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\bin\Debug\solidworkstools.dll
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.csproj.CopyComplete
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.dll
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.pdb
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\bin\Debug\SwCSharpAddin1.tlb
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.Form1.resources
+E:\internship\SwCSharpAddin1\SwCSharpAddin1\obj\Debug\SwCSharpAddin1.csproj.GenerateResource.cache
